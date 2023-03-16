@@ -31,5 +31,6 @@ public class Main {
         System.out.println(Arrays.asList(a));
         Collections.reverse(Arrays.asList(a));
         System.out.println(Arrays.asList(a));
+
     }
 }
